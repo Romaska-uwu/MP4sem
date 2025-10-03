@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(72,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(72,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  LCS.cpp
+C:\ConsoleApplication1\ConsoleApplication1\LCS.cpp(42,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ConsoleApplication1\ConsoleApplication1\LCS.cpp(42,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ConsoleApplication1\ConsoleApplication1\LCS.cpp(41,6): warning C4101: n: неиспользованная локальная переменная
+  Levenshtain.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
